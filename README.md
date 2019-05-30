@@ -1,8 +1,11 @@
 # IBM_NeuralLogClassifier
 
-Company: IBM Italy & Politecnico di Milano
-Creator: Niccolo Howard Minetti
+Company: IBM Italy & Politecnico di Milano 
+
+Creator: Niccolo Howard Minetti 
+
 Academic Tutor: Stefano Zanero
+
 Company Tutor: Michele Rosati
 
 A neural log classifier that can learn to classify system logs after training. The scope of this project is to speed up
