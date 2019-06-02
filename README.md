@@ -1,10 +1,14 @@
 Company: IBM Italy & Politecnico di Milano
+
 Date: 1/06/19
+
 Supervisors: Prof. Stefano Zanero (Politecnico), Michele Rosati (IBM)
+
 Author: Niccolò Howard Minetti
 
 
 Neural Log Classifier  - 2.0
+
 
 Introduction
 
